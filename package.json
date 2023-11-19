@@ -1,0 +1,15 @@
+{
+  "name": "nlp-model-utility",
+  "version": "0.01",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "node-nlp": "^4.27.0"
+  }
+}
